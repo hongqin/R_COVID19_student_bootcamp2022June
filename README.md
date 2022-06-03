@@ -1,28 +1,29 @@
-# R-covid19-bootcamp-2020Dec
+# R-covid19-bootcamp-2022 June 
 
-**Online coding bootcamp for high school students and early college students** <br> 
-Dec 19-23, 2020 <br> 
+**Online coding bootcamp for high school students at UTC TRIO program** <br> 
+June 2022 <br> 
 University of Tennessee at Chattanooga <b> 
 
-Dec 19, 2020 <br> 
-10am. A year with COVID 19, Dr. Jeticia Sistrunk. https://youtu.be/Pik30ECC5XE 
+June 13: COVID19 and data analysis with R. Relevant student video from 2020. 
 
-11am. Epidemiological modeling for COVID 19. Dr. Metewab Ayalew. https://youtu.be/4fxsjycTIlo 
+June 14:  Basics coding of R.  Dr. Hong Qin. https://youtu.be/iFCQ6plYBCA 
 
-1:30pm. Basics coding of R.  Dr. Hong Qin. https://youtu.be/iFCQ6plYBCA 
+June 15:  Analyze a county-level COVID-19 dataset. Dr. Hong Qin. https://youtu.be/zgKd4Fwb5b0 
 
-Dec 20, 2020
-1:30pm. Analyze a county-level COVID-19 dataset. Dr. Hong Qin. https://youtu.be/zgKd4Fwb5b0 
+June 20:  Review and learn to write a scientific report
 
-Dec 21, 2020
-1:30pm Student work on his/her own project, write report
+June 21:  Draft report
+  
+June 22:  Revise report
 
-Dec 22, 2020
-1:30pm, Student work on his/her own project, write report, generate a video
+June 27:  Revise report, generate video presentation
 
-Dec 23, 2020
-1:30pm,  Revise report
+June 28:  Generate video presentation
 
-
+June 29:  Share video presentations
+  
+Referecence: 
+  Epidemiological modeling for COVID 19. Dr. Metewab Ayalew. https://youtu.be/4fxsjycTIlo 
+  Relevant student videos
 
 
