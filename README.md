@@ -1,6 +1,6 @@
 # R-covid19-bootcamp-2022 June 
 
-**Online coding bootcamp for high school students at UTC TRIP program** <br> 
+**Online coding bootcamp for high school students at UTC TRIO program** <br> 
 June 2022 <br> 
 University of Tennessee at Chattanooga <b> 
 
