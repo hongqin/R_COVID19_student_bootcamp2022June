@@ -9,6 +9,9 @@ June 20 Mon: Socrative ice break. CoLab set up. COVID19 and data analysis with R
 Sample student videos:<br>
 * https://youtu.be/vzynavBBkoo?t=396
 * https://youtu.be/QjffFCNo4uY?t=13 
+* https://youtu.be/Z-OKVM10WG8?t=8
+* https://youtu.be/rtnoSwklhDA?t=6
+* https://youtu.be/ybxNZtQHeFE?t=4
   
   
 June 21 Tue:  Basics coding of R.  Dr. Hong Qin. https://youtu.be/iFCQ6plYBCA 
