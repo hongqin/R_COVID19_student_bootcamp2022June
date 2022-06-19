@@ -4,7 +4,7 @@
 June 2022 <br> 
 University of Tennessee at Chattanooga <b> 
 
-June 20 Mon: Socrative ice break. CoLab set up. COVID19 and data analysis with R. 
+June 20 Mon: Socrative ice break. CoLab set up. Basic R. 
 
 Sample student videos:<br>
 * https://youtu.be/vzynavBBkoo?t=396
@@ -14,9 +14,9 @@ Sample student videos:<br>
 * https://youtu.be/ybxNZtQHeFE?t=4
   
   
-June 21 Tue:  Basics coding of R.  Dr. Hong Qin. https://youtu.be/iFCQ6plYBCA 
+June 21 Tue:  Basics coding of R and COVID-19 data analysis.  Dr. Hong Qin. https://youtu.be/iFCQ6plYBCA 
 
-June 22 Wed:  Analyze a county-level COVID-19 dataset. Dr. Hong Qin. https://youtu.be/zgKd4Fwb5b0 
+June 22 Wed:  COVID-19 analysis, continued. Dr. Hong Qin. https://youtu.be/zgKd4Fwb5b0 
 
 June 23 Thu:  Review and learn to write a scientific report
 
