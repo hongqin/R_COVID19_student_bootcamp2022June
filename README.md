@@ -20,17 +20,16 @@ June 22 Wed:  COVID-19 analysis, continued. Dr. Hong Qin. https://youtu.be/zgKd4
 
 June 23 Thu:  Review and learn to write a scientific report
 
-June 27 Mon:  Draft report
+June 27 Mon:  Draft report (working in groups)
   
 June 28 Tue:  Revise report
 
 June 29 Wed:  Revise report, generate video presentation
 
-June 30 Thu:  Generate video presentation
+June 30 Thu:  Generate video presentation (working in groups)
 
   
 Referecence: 
   Epidemiological modeling for COVID 19. Dr. Metewab Ayalew. https://youtu.be/4fxsjycTIlo 
-  Relevant student videos
 
 
