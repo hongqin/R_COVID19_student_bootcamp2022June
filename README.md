@@ -30,6 +30,7 @@ June 30 Thu:  Generate video presentation (working in groups)
 
   
 Referecence: 
-  Epidemiological modeling for COVID 19. Dr. Metewab Ayalew. https://youtu.be/4fxsjycTIlo 
-
+ * A year with COVID-19 Dr. Jeticia Sistrunk. https://youtu.be/Pik30ECC5XE 
+ * Epidemiological modeling for COVID 19. Dr. Metewab Ayalew. https://youtu.be/4fxsjycTIlo 
+ 
 
