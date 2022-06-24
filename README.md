@@ -14,6 +14,7 @@ June 22 Wed:  COVID-19 analysis, continued. Dr. Hong Qin. https://youtu.be/zgKd4
 June 23 Thu:  Review and learn to write a scientific report
 
 June 27 Mon:  Draft report (working in groups)
+  [Template for report](https://docs.google.com/document/d/1XdD444TiRxXle8UjMFsaJfS0ieAiY3kOBdOJHdi0rD0/edit?usp=sharing)
   
 June 28 Tue:  Revise report
 
