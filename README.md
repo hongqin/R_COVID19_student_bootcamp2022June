@@ -33,5 +33,6 @@ Sample student videos:<br>
 * https://youtu.be/Z-OKVM10WG8?t=8
 * https://youtu.be/rtnoSwklhDA?t=6
 * https://youtu.be/ybxNZtQHeFE?t=4
- 
 
+Sample student report:<br>
+* https://drive.google.com/drive/folders/1K0He97-r8LLAYrtb4xZvJrrTM8O0Cvn2?usp=sharing 
