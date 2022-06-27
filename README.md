@@ -36,3 +36,10 @@ Sample student videos:<br>
 
 Sample student report:<br>
 * https://drive.google.com/drive/folders/1K0He97-r8LLAYrtb4xZvJrrTM8O0Cvn2?usp=sharing 
+
+
+Shared working reports: 
+Here is Team 1 working report: https://docs.google.com/document/d/1sgkCLIFxCxGWqJ7bSWhodB6tFXwdgcLahjUsp2ZsMFI/edit?usp=sharing
+
+Here is Team 2 working report: https://docs.google.com/document/d/1TtbW3FzDfxo0_nkGyZD-92ARFtvz5hwWMXXOBU5u5_M/edit?usp=sharing
+
